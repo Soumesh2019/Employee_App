@@ -1,0 +1,167 @@
+export default [
+  {
+    id: 1,
+    name: "Soumesh",
+    email: "soumesh57@gmail.com",
+    salary: "10PLA",
+    job: "Web Developer",
+    age: 19,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 2,
+    name: "Sonu",
+    email: "soumesh57@gmail.com",
+    salary: "10PLA",
+    job: "Andoid Developer",
+    age: 20,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 3,
+    name: "Mayank",
+    email: "sk0564845@gmail.com",
+    salary: "10PLA",
+    job: "React Developer",
+    age: 21,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 4,
+    name: "Debashis",
+    email: "sk0564845@gmail.com",
+    salary: "10PLA",
+    job: "ios Developer",
+    age: 22,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 5,
+    name: "Soaurav",
+    email: "sk0564845@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 6,
+    name: "Soaurav",
+    email: "sk0564845@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 7,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 8,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 9,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 10,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 11,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 12,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 13,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 14,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+  {
+    id: 15,
+    name: "Soaurav",
+    email: "soumesh57@gmail.com",
+    salary: "5PLA",
+    job: "React Native Dev",
+    age: 23,
+    image:
+      "https://i.dailymail.co.uk/1s/2021/01/24/05/38405090-9180835-image-m-84_1611466759870.jpg",
+    phone: "9556868524",
+  },
+];
