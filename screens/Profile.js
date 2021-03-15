@@ -33,7 +33,7 @@ const Profile = (props) => {
   };
 
   const deleteEmp = () => {
-    fetch("http://10.0.2.2:3000/delete", {
+    fetch("https://serene-shelf-91637.herokuapp.com/delete", {
       method: "post",
       body: JSON.stringify({
         _id,

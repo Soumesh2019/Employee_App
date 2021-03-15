@@ -3,7 +3,7 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 export const fetchEmployees = createAsyncThunk(
   "employees/fetchEmployees",
   async () => {
-    const res = await fetch("http://10.0.2.2:3000");
+    const res = await fetch("https://serene-shelf-91637.herokuapp.com/");
     const data = await res.json();
 
     return data;
@@ -13,7 +13,7 @@ export const fetchEmployees = createAsyncThunk(
 export const createEmp = createAsyncThunk(
   "employees/CreateEmployee",
   async ({ name, phone, email, salary, picture, job }) => {
-    const res = await fetch("http://10.0.2.2:3000/send", {
+    const res = await fetch("https://serene-shelf-91637.herokuapp.com/send", {
       method: "post",
       headers: {
         "Content-Type": "application/json",
@@ -30,7 +30,7 @@ export const createEmp = createAsyncThunk(
 export const editEmp = createAsyncThunk(
   "employees/editEmp",
   async ({ name, phone, email, salary, job, _id }) => {
-    const res = await fetch("http://10.0.2.2:3000/update", {
+    const res = await fetch("https://serene-shelf-91637.herokuapp.com/update", {
       method: "post",
       headers: {
         "Content-Type": "application/json",
